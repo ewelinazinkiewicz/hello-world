@@ -1,3 +1,5 @@
 # hello-world
 first repository
-hmmmmmmm
+Hi! 
+Something completely new for me. 
+Really challenging.
